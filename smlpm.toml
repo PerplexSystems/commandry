@@ -1,0 +1,8 @@
+[package]
+name = "commandry"
+version = "0.1.0"
+
+[dependencies]
+
+[dev-dependencies]
+"railroad" = { git = "https://github.com/PerplexSystems/railroad", tag = "v0.4.0" }

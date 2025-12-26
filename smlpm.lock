@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "packages": {
+    "railroad": {
+      "git": "https://github.com/PerplexSystems/railroad",
+      "tag": "v0.4.0",
+      "rev": "4af014e5773bcfb7f2bdacf502d4c48f8a860670",
+      "integrity": "sha256-04572145671e3ad58a4f624a9ee71e35ff09c827014fd0c2ae83c64773a58b73",
+      "vendored": false,
+      "alias": null,
+      "variable": "SMLPM_RAILROAD",
+      "dependencies": {}
+    }
+  }
+}
