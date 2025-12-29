@@ -1,0 +1,14 @@
+(*
+ * SPDX-FileCopyrightText: 2025 Victor Freire <https://gluer.org>
+ *
+ * SPDX-License-Identifier: MIT
+ *)
+
+$(SML_LIB)/basis/basis.mlb
+$(SMLPM_RAILROAD)/lib.mlb
+../src/sources.mlb
+
+(* ensure that examples compile *)
+../docs/examples/sources.mlb
+
+tests.sml

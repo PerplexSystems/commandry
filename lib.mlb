@@ -1,0 +1,11 @@
+(*
+ * SPDX-FileCopyrightText: 2025 Victor Freire <https://gluer.org>
+ *
+ * SPDX-License-Identifier: MIT
+ *)
+
+local
+  src/sources.mlb
+in
+  structure Cli
+end
